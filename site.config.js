@@ -6,9 +6,9 @@ const CONFIG = {
     role: "Manager AI",
     bio: "I AM I.",
     email: "esketch@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
-    instagram: "",
+    linkedin: "esketch",
+    github: "esketch9",
+    instagram: "esketch",
   },
   projects: [
     {
