@@ -1,11 +1,11 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
+    name: "Esketch Song",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
+    role: "Manager AI",
+    bio: "I AM I.",
+    email: "esketch@gmail.com",
     linkedin: "morethanmin",
     github: "morethanmin",
     instagram: "",
@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Notion-Blog",
-    description: "welcome to morethan-log!",
+    title: "SSH Blog",
+    description: "welcome to SSH blog!",
     theme: "dark", // ['light', 'dark', 'auto']
   },
 
