@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `Notion-Blog`,
-      href: "https://github.com/esketch-ai/Notion-Blog",
+      href: "https://github.com/esketch-ai/esketch-ai.github.io",
     },
   ],
   // blog setting (required)
@@ -34,7 +34,8 @@ const CONFIG = {
 
   // notion configuration (required)
   notionConfig: {
-    pageId: process.env.NOTION_PAGE_ID,
+    pageId: process.env.0d9e3d03f2804688b155e6722702a3cb,
+//     pageId: process.env.NOTION_PAGE_ID,
   },
 
   // plugin configuration (optional)
