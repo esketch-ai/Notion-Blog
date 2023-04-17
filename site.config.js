@@ -3,8 +3,8 @@ const CONFIG = {
   profile: {
     name: "Esketch Song",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
+    role: "General AI planning and development",
+    bio: "AI planning and development",
     email: "esketch@gmail.com",
     linkedin: "esketch",
     github: "esketch9",
@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
+      name: `Esketch blog`,
       href: "https://github.com/esketch-ai/esketch-ai.github.io",
     },
   ],
