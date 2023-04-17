@@ -1,29 +1,29 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Esketch Song",
+    name: "morethanmin",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Manager AI",
-    bio: "I AM I.",
-    email: "esketch@gmail.com",
-    linkedin: "esketch",
-    github: "esketch9",
-    instagram: "esketch",
+    role: "frontend developer",
+    bio: "I develop everything using node.",
+    email: "morethanmin.dev@gmail.com",
+    linkedin: "morethanmin",
+    github: "morethanmin",
+    instagram: "",
   },
   projects: [
     {
-      name: `Notion-Blog`,
-      href: "https://github.com/esketch-ai/esketch-ai.github.io",
+      name: `morethan-log`,
+      href: "https://github.com/morethanmin/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "SSH Blog",
-    description: "welcome to SSH blog!",
-    theme: "dark", // ['light', 'dark', 'auto']
+    title: "morethan-log",
+    description: "welcome to morethan-log!",
+    theme: "auto", // ['light', 'dark', 'auto']
   },
 
-// CONFIG configration (required)
+  // CONFIG configration (required)
   link: "https://morethan-log.vercel.app",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
