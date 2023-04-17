@@ -25,7 +25,6 @@ const CONFIG = {
 
   // CONFIG configration (required)
   link: "https://Notion-Blog.vercel.app",
-  NOTION_PAGE_ID: "https://www.notion.so/esketch/0d9e3d03f2804688b155e6722702a3cb?v=fc8c61ee610845bc92285184ee6dbdb5", 
   since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
 //   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
@@ -35,7 +34,6 @@ const CONFIG = {
 
   // notion configuration (required)
   notionConfig: {
-//     https://www.notion.so/esketch/0d9e3d03f2804688b155e6722702a3cb?v=fc8c61ee610845bc92285184ee6dbdb5
     pageId: process.env.NOTION_PAGE_ID,
   },
 
